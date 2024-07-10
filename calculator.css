@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#011627;
+    color:#fdfffc;
+    text-align: center;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+form{
+    margin-top: 50px;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45;
+    margin: 10px;
+    border-radius:10px;
+}
